@@ -6,6 +6,8 @@ Ce projet est le premier essai de construction d'un dôme géodésique de fréqu
 Ceci est imspiré du système [domekit par EFFALO (cc-by)](https://www.thingiverse.com/thing:8985) et de la solution commercialisé par la société britanique [Hubs](https://buildwithhubs.co.uk/). 
 L'édée de départ était de réaliser un système par rotule qui laisse penser qu'il offre une bonne facilité de montage de manière DIY et imprimmable en 3D. 
 
+![rendu_dome_rotules](pictures/rendu_dome_rotules.jpg)
+
 **Cette solution n'a pour le moment pas abouti et semble inadapté à un dôme de fréquence 3 et plus. En effet le montage est rendu difficile par le fait que les arrêtes sont trop libres de leurs mouvements. Cette solution semble adapté pour des dômes de fréquences 1 et 2.**
 
 **Date de début du projet :** Juin 2021
