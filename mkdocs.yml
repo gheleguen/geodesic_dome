@@ -1,7 +1,7 @@
 site_name: remorques_ateliers
 nav:
     - Readme: README.md
-    - Voie abandonnées
+    - Voie abandonnées:
     	- Connecteurs à rotules DIY: connecteurs_a_rotules.md
         
 theme:
