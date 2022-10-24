@@ -27,9 +27,9 @@ L'édée de départ était de réaliser un système par rotule qui laisse penser
 ## 1. Préparation des connecteurs
 
 
- - [Retrouver tous les fichiers en question dans l'archive](/hardware/archives_projets_abandones/connecteurs_a_rotules)
+ - [Retrouver tous les fichiers en question dans l'archive](https://github.com/gheleguen/geodesic_dome/tree/master/hardware/archives_projets_abandones/connecteurs_a_rotules)
  - Impression des pièces en PETG  en résolution 0,2mm. 
- - Imprimer autant de rotume que de bout de section. 
+ - Imprimer autant de rotules que de bout de section. 
  - Imprimer les rondelles de 3 couleurs différentes. On affectera une couleur comme code à l'une des trois longueur de tasseau différentes.  
  - **Attention**, pour un connecteur (6 branches par exemple) Il faut 2 pièces bleu 6 emplacements et 6 rotules Jaunes
 

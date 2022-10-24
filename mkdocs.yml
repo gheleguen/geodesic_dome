@@ -1,6 +1,7 @@
-site_name: remorques_ateliers
+site_name: geodesic_dome
 nav:
-    - Readme: README.md
+    - Introduction: README.md
+    - 1. Les connecteurs: connecteurs_imbriques.md
     - Voie abandonnées:
       - Connecteurs à rotules DIY: connecteurs_a_rotules.md
         
