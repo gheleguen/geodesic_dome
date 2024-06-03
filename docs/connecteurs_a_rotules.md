@@ -1,14 +1,21 @@
-# Piste abandonné n°1
+# Piste abandonnée n°1
 
 ## connecteurs à rotules
 
-Ce projet est le premier essai de construction d'un dôme géodésique de fréquence 3 avec des connecteurs imprimé en 3D. Il était constitué de connecteurs emprisonnant des rotules vissés sur le bout de chaque tasseau. 
-Ceci est imspiré du système [domekit par EFFALO (cc-by)](https://www.thingiverse.com/thing:8985) et de la solution commercialisé par la société britanique [Hubs](https://buildwithhubs.co.uk/). 
-L'édée de départ était de réaliser un système par rotule qui laisse penser qu'il offre une bonne facilité de montage de manière DIY et imprimmable en 3D. 
+Ce projet est le premier essai de construction d'un dôme géodésique de fréquence 3 avec des connecteurs imprimés en 3D. Il était constitué de connecteurs emprisonnant des rotules vissés sur le bout de chaque tasseau. 
+Ceci est inspiré du système [domekit par EFFALO (cc-by)](https://www.thingiverse.com/thing:8985) et de la solution commercialisé par la société britanique [Hubs](https://buildwithhubs.co.uk/). 
+L'idée de départ était de réaliser un système par rotule, ce système laisse penser qu'il facilite le montage. 
+
+<section style="border: 2px solid red; padding: 20px; border-radius:20px; color: red;">
+Attention ! Cette solution n'a pas abouti et semble inadapté à un dôme de fréquence 3 et plus. En effet le montage est rendu difficile par le fait que les arrêtes demeurent trop libres de leurs mouvements. Lors du montage, certainent rotulent se désengagent. La structure général est difficile à faire tenir.
+</br>Cette solution restera cependant peut-être adapté pour des dômes de fréquences 1 et 2. Dômes pour lesquelles les angles restent plus importants. 
+</section>
+
+
 
 ![rendu_dome_rotules](pictures/rendu_dome_rotules.jpg)
 
-**Cette solution n'a pour le moment pas abouti et semble inadapté à un dôme de fréquence 3 et plus. En effet le montage est rendu difficile par le fait que les arrêtes sont trop libres de leurs mouvements. Cette solution semble adapté pour des dômes de fréquences 1 et 2.**
+
 
 **Date de début du projet :** Juin 2021
 

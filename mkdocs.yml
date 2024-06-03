@@ -1,10 +1,15 @@
 site_name: geodesic_dome
+repo_url: https://github.com/gheleguen/geodesic_dome.git
+edit_uri: -/edit/main/docs/
+
 nav:
     - Introduction: README.md
-    - 1. Les connecteurs: connecteurs_imbriques.md
+    - 1. Les connecteurs: connecteurs_a_goupilles.md
     - Voie abandonnées:
-      - Connecteurs à rotules DIY: connecteurs_a_rotules.md
-        
+      - Connecteurs imbriqués: connecteurs_imbriques.md
+      - Connecteurs à rotules: connecteurs_a_rotules.md
+
+ 
 theme:
     name: material
     palette:
